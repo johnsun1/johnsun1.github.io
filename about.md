@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+My name is John Sun, and I am a Software Developer. This site is meant as a place for me to share my thoughts on current trends in technology, and science. I chose GitHub to host my site, because the lack
+of advertisements means that, visitors are not distracted from the content during their visit. Anyways,
+enjoy your stay. If you have any questions, I can be reached via email.
