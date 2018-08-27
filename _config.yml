@@ -9,9 +9,7 @@
 title: John Sun
 email: johnsun659@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I'm a software developer, and I like writing clean, maintainable code. My education includes
-  a Bachelor's of Science degree in Computer Science from San Jose State University, 
-  and an Associate of Arts degree in Human Development from Ohlone College.
+  I'm a software developer, and I like writing clean, maintainable code.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://johnsun1.github.io/" # the base hostname & protocol for your site
 twitter_username: johnsun34
