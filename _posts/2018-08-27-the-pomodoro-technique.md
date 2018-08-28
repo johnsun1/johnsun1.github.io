@@ -14,6 +14,6 @@ I had previously experimented with this technique and found that it significantl
 ###### Credit: https://pixabay.com/en/tomato-vegetable-food-vitamins-3520004/ ######
 
 ### Yummy Tomatoes ###
-There are many apps available, on iOS and Android, for helping people adhere to the core tenants of the technique. Some apps try to "gamify" the process. For example,  Forest (by Seekrtech Co., Ltd) allows users to grow a virtual forest while they complete a 50-minute work session; while letting users grow real trees with their in-game currency, cool! 
+There are many apps available, on iOS and Android, for helping people adhere to the core tenants of the technique. Some apps try to "gamify" the process. For example,  Forest (by Seekrtech Co., Ltd) allows users to grow a virtual forest while they complete a 50-minute work session. Players can also grow real trees with their in-game currency, cool! 
 
-I find the simplest way to be using my phone's built-in timer. However you decide to approach The Pomodoro Technique, the best way to keep track of time is the method that you will use consistently.
+Rather than use an elaborate app, I find that using my phone's built-in timer works best. However you decide to approach The Pomodoro Technique, the best way to keep track of time is the method that you will use consistently.
