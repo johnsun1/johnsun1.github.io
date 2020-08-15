@@ -5,7 +5,7 @@ date:   2020-08-15
 categories: frugality
 ---
 
-![Nokia 3310]({{ "/assets/nokia3310.png" | absolute_url }})
+![Nokia 3310]({{ "/assets/nokia3310.PNG" | absolute_url }})
 ###### Credit: https://www.nokia.com/phones/en_int/nokia-3310 ######
 
 My next phone will be a dumb phone. 
