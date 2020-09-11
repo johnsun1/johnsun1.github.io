@@ -7,9 +7,9 @@
 
 # Site settings
 title: John Sun
-email: johnsun659@gmail.com
+email: 
 description: > # this means to ignore newlines until "baseurl:"
-  I'm a software developer, and I like writing clean, maintainable code.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://johnsun1.github.io/" # the base hostname & protocol for your site
 twitter_username: johnsun34
