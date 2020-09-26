@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My Next Phone Will Be a Dumb Phone"
+title:  "My next phone will be a dumb phone"
 date:   2020-08-15
 categories: frugality
 ---

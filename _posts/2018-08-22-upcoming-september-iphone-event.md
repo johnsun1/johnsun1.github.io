@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Upcoming September iPhone Event"
+title:  "Upcoming september iPhone event"
 date:   2018-08-22
 categories: technology
 ---
