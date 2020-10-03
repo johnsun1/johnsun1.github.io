@@ -8,6 +8,8 @@ categories: finance
 Recently, I have become more interested in personal finance and the idea of retiring early to pursue the activities that mean the most to me. Often this involves saving money and investing it. There are many strategies for growing wealth, but I found the approach that appealed to me the most is investing in index funds. They're inherently diversified, and often you can buy into them regularly and for no fees.
 
 ![The S&P 500](/assets/S&P500.png "S&P 500 as of 2 October 2020")
+###### S&P 500 as of 2 October 2020 provided by Google ######
+
 
 ### What is an index fund? ###
 Index funds are buckets of assets that track an index. When you purchase shares of an index fund, you are buying partial ownership of all of the assets in that container. The convenient thing about index funds is that most of them allow you to set up automatic investments so that you do not have to handle your finances at all, which can prevent you from panic buying or selling during market events. Even better, if you're trading with the brokerage that offers the particular index fund you are interested in, it is probably free to purchase those index fund shares. Index funds are a great value!
