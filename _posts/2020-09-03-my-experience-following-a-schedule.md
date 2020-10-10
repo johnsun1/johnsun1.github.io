@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My experience following a schedule"
+title:  "My Experience Following a Schedule"
 date:   2020-09-03
 categories: productivity
 ---

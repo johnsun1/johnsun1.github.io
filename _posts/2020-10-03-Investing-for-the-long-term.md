@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Investing for the long term"
+title:  "Investing for The Long Term"
 date:   2020-10-03
 categories: finance
 ---
